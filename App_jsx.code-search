@@ -1,0 +1,9 @@
+# Query: App.jsx
+# ContextLines: 1
+
+1 result - 1 file
+
+README.md:
+  4  
+  5: App.jsx is a React dashboard component and App.css contains its dark aviation operations styling. Import App into a React application entry point. The interface uses in-file mock station telemetry and does not require image or map services.
+  6  
